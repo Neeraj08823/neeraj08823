@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neeraj08823
+- 👋 Hi, I’m Neeraj Kumar
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
