@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neeraj Kumar
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 Mail me @:- nk08823@gmail.com
 
