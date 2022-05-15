@@ -3,7 +3,8 @@ Neeraj08823/Neeraj08823 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">👋 Hi, I’m Neeraj Kumar</h1>
-<h3 align="center">I have a confession to make - I'm not a rock star programmer. Nor I am a hacker. I don't know what everyone thinks about me. Nobody has ever called me a wizard. Still, I take pride in the fact that I'm a good, solid programmer. One who works hard at his craft and really enjoys it.Other than this, I love Music....</h3>
+<h3 align="center">I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript.
+  Other than this, I love Travel & Music....</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Neeraj08823&label=Profile%20views&color=0e75b6&style=flat" alt="Neeraj08823" /> </p> -->
 
@@ -31,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neeraj08823&show_icons=true&locale=en&layout=compact" alt="Neeraj08823" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neeraj08823&show_icons=true&locale=en&layout=compact" alt="Neeraj08823" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Neeraj08823&show_icons=true&locale=en" alt="Neeraj08823" /></p>
 
