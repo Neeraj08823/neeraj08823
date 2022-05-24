@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript.
   Other than this, I love Travel & Music....</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Neeraj08823&label=Profile%20views&color=0e75b6&style=flat" alt="Neeraj08823" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Neeraj08823&label=Profile%20views&color=0e75b6&style=flat" alt="Neeraj08823" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Neeraj08823" alt="Neeraj08823" /></a> </p> -->
 
