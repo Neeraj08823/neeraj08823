@@ -2,7 +2,7 @@
 Neeraj08823/Neeraj08823 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">👋 Hi there,</h1>
+<h1 align="center">👋 Hi there !</h1>
 <h1 align="center">I’m Neeraj Kumar</h1>
 <h3 align="center">I’m a web developer. I completed my B.tech in Computer Science Engineering from Rajasthan Technical University. Since my school days,
 I have been quite passionate about computer softwares and always wanted to work as software developer.
