@@ -3,8 +3,9 @@ Neeraj08823/Neeraj08823 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">👋 Hi, I’m Neeraj Kumar</h1>
-<h3 align="center">I’m a web developer. I spend my whole day, practically every day, experimenting with HTML, CSS, and JavaScript.
-  Other than this, I love Travel & Music....</h3>
+<h3 align="center">I’m a web developer. I completed my B.tech in Computer Science Engineering from Rajasthan Technical University. Since my school days,
+I have been quite passionate about computer softwares and always wanted to work as software developer.
+Talking about my hobbies and interests, I love to do photography, Traveling, Video Game and Web Surfing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Neeraj08823&label=Profile%20views&color=0e75b6&style=flat" alt="Neeraj08823" /> </p>
 
