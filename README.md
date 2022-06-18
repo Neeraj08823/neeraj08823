@@ -37,7 +37,7 @@ Talking about my hobbies and interests, I love to do photography, Traveling, Vid
  </p>
 
 
-| <p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj08823&layout=compact&theme=buefy&hide_border=true" alt="Neeraj08823" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Neeraj08823&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Neeraj's github stats" /> </p> |
+| <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj08823&layout=compact&theme=buefy&hide_border=true" alt="Neeraj08823" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Neeraj08823&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Neeraj's github stats" /> |
 | ------------- | ------------- |
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Neeraj08823&show_icons=true&locale=en" alt="Neeraj08823" /></p> -->
