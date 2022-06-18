@@ -40,7 +40,8 @@ Talking about my hobbies and interests, I love to do photography, Traveling, Vid
  </p>
 
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neeraj08823&show_icons=true&locale=en&layout=compact" alt="Neeraj08823" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neeraj08823&show_icons=true&locale=en&layout=compact" alt="Neeraj08823" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Neeraj08823&show_icons=true&locale=en" alt="Neeraj08823" /></p>
 
