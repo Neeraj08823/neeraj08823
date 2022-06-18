@@ -1,7 +1,4 @@
-<!---
-Neeraj08823/Neeraj08823 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 <h1 align="center">👋 Hi there !</h1>
 <h1 align="center">I’m Neeraj Kumar</h1>
 <h3 align="center">I’m a web developer. I completed my B.tech in Computer Science Engineering from Rajasthan Technical University. Since my school days,
@@ -40,10 +37,10 @@ Talking about my hobbies and interests, I love to do photography, Traveling, Vid
  </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neeraj08823&show_icons=true&locale=en&layout=compact" alt="Neeraj08823" /></p>
+| <a href="https://github.com/Neeraj08823/github-readme-stats">><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj08823&layout=compact&theme=buefy&hide_border=true" alt="Neeraj08823" /></a> | <a href="https://github.com/Neeraj08823/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Neeraj08823&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Neeraj's github stats" /></a> |
+| ------------- | ------------- |
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Neeraj08823&show_icons=true&locale=en" alt="Neeraj08823" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Neeraj08823&show_icons=true&locale=en" alt="Neeraj08823" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Neeraj08823" alt="Neeraj08823" /></p>
 
