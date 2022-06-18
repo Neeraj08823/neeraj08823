@@ -37,11 +37,12 @@ Talking about my hobbies and interests, I love to do photography, Traveling, Vid
  </p>
 
 
-| <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj08823&layout=compact&theme=buefy&hide_border=true" alt="Neeraj08823" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Neeraj08823&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Neeraj's github stats" /> |
+| <img width="400" align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj08823&layout=compact&theme=buefy&hide_border=true" alt="Neeraj08823" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Neeraj08823&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Neeraj's github stats" /> |
 | ------------- | ------------- |
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Neeraj08823&show_icons=true&locale=en" alt="Neeraj08823" /></p> -->
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Neeraj08823" alt="Neeraj08823" /></p>
+<p align="center"><img   width="550"
+     src="https://github-readme-streak-stats.herokuapp.com/?user=Neeraj08823" alt="Neeraj08823" /></p>
 
 <a href="https://github.com/Neeraj08823"><img src="https://activity-graph.herokuapp.com/graph?username=Neeraj08823&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
