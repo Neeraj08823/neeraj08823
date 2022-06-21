@@ -9,7 +9,7 @@ Talking about my hobbies and interests, I love to do photography, Traveling, Vid
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Neeraj08823" alt="Neeraj08823" /></a> </p> -->
 
-- 📫 How to reach me **nk08823@gmail.com**
+- 📫 How to reach me **officialneerajkr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
