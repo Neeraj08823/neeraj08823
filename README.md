@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&color=3B51A1&center=true&vCenter=true&multiline=true&lines=Hey+there%F0%9F%91%8B!++I%E2%80%99m+Neeraj+Kumar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=35&color=168BA1&center=true&lines=Hey+there%F0%9F%91%8B!+%2C;+I'm+Neeraj+Kumar)](https://git.io/typing-svg)
 <br/><hr/>
 <h3 align="center">I’m a web developer. I completed my B.tech in Computer Science Engineering from Rajasthan Technical University. Since my school days,
 I have been quite passionate about computer softwares and always wanted to work as software developer.
