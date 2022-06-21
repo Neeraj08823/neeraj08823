@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=35&color=168BA1&center=true&lines=Hey+there%F0%9F%91%8B!+%2C;+I'm+Neeraj+Kumar)](https://git.io/typing-svg)
 <br/><hr/>
-<!-- <h3 align="center">I’m a web developer. I completed my B.tech in Computer Science Engineering from Rajasthan Technical University. Since my school days,
+<h3 align="center">I’m a Front-End Web Developer. I completed my B.tech in Computer Science Engineering. Since my school days,
 I have been quite passionate about computer softwares and always wanted to work as software developer.
-Talking about my hobbies and interests, I love to do photography, Traveling, Video Game and Web Surfing.</h3> -->
+Talking about my hobbies and interests, I love to do photography, Traveling, Video Game and Web Surfing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Neeraj08823&label=Profile%20views&color=0e75b6&style=flat" alt="Neeraj08823" /> </p>
 
