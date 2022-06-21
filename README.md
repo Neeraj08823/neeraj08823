@@ -1,6 +1,5 @@
-
-<h1 align="center">👋 Hi there !</h1>
-<h1 align="center">I’m Neeraj Kumar</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&color=3B51A1&center=true&vCenter=true&multiline=true&lines=Hey+there%F0%9F%91%8B!++I%E2%80%99m+Neeraj+Kumar)](https://git.io/typing-svg)
+<br/><hr/>
 <h3 align="center">I’m a web developer. I completed my B.tech in Computer Science Engineering from Rajasthan Technical University. Since my school days,
 I have been quite passionate about computer softwares and always wanted to work as software developer.
 Talking about my hobbies and interests, I love to do photography, Traveling, Video Game and Web Surfing.</h3>
