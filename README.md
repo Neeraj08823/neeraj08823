@@ -7,7 +7,6 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Neeraj08823" alt="Neeraj08823" /></a> </p> -->
 
 - 📫 How to reach me **officialneerajkr@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kr_neeraj_singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kr_neeraj_singh" height="30" width="40" /></a>
@@ -32,6 +31,12 @@
 <!-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> -->
  </p>
+
+<div>------------------------------------------------------------------------------------------------------------------------------------------------------------</div>
+<div>
+<h4 align="left">Liked some of my work ? </h4>
+<a href="https://www.buymeacoffee.com/krneerajsingh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></div>
+<div>------------------------------------------------------------------------------------------------------------------------------------------------------------</div>
 
 
 | <img width="400" align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neeraj08823&layout=compact&theme=buefy&hide_border=true" alt="Neeraj08823" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Neeraj08823&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Neeraj's github stats" /> |
