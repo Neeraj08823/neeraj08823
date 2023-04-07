@@ -1,6 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=35&color=168BA1&center=true&lines=Hey+there%F0%9F%91%8B!+%2C;+I'm+Neeraj+Kumar" />
 <hr/>
-<img src="https://readme-typing-svg.herokuapp.com?font=&size=20&color=45818e&multiline=true&width=1200&height=100&lines=I%E2%80%99m+a+Front-End+Web+Developer.+I+completed+my+B.tech+in+Computer+Science+Engineering.+Since+my+school+days%2C;I+have+been+quite+passionate+about+computer+softwares+and+always+wanted+to+work+as+software+developer.;Talking+about+my+hobbies+and+interests%2C+I+love+to+do+photography%2C+Traveling%2C+Video+Game+and+Web+Surfing." />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=&size=20&color=45818e&multiline=true&width=1200&height=100&lines=I%E2%80%99m+a+Front-End+Web+Developer.+I+completed+my+B.tech+in+Computer+Science+Engineering.+Since+my+school+days%2C;I+have+been+quite+passionate+about+computer+softwares+and+always+wanted+to+work+as+software+developer.;Talking+about+my+hobbies+and+interests%2C+I+love+to+do+photography%2C+Traveling%2C+Video+Game+and+Web+Surfing." /> -->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=&size=20&color=45818e&multiline=true&width=1200&height=120&lines=I+am+a+Full+Stack+Web+Developer+with+expertise+in+HTML%2C+CSS%2C+JavaScript%2C+React+Js%2C+Node%2C+and+Bootstrap.+;I+have+experience+building+singlepage+web+applications+such+as+a+Netflix+clone+and+a+food+ordering+website.;I+also+created+a+website+with+multiple+mini-games+like+Tic+Tac+Toe%2C+Memory+Game%2C+Sudoku%2C+and+2048.;Check+out+my+portfolio+for+more+information+on+my+skills+and+projects." />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Neeraj08823&label=Profile%20views&color=0e75b6&style=flat" alt="Neeraj08823" /> </p>
 
@@ -47,4 +49,6 @@
 <p align="center"><img   width="550"
      src="https://github-readme-streak-stats.herokuapp.com?user=Neeraj08823&border=000565&dates=DD2727&sideNums=070453&ring=DD2727" alt="Neeraj08823" /></p>
 
-<a href="https://github.com/Neeraj08823"><img src="https://activity-graph.herokuapp.com/graph?username=Neeraj08823&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="https://github.com/Neeraj08823"><img src="https://activity-graph.herokuapp.com/graph?username=Neeraj08823&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+
+[![Neeraj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Neeraj08823&theme=react-dark)](https://github.com/Neeraj08823/github-readme-activity-graph)
